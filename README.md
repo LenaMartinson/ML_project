@@ -51,3 +51,5 @@
 ## Link for colab for tuning
 
 https://colab.research.google.com/drive/1vFoUw0fHJPuV3ytUZ9KjccdwOwzXFx1Y?usp=sharing
+
+Все последние эксперементы проводяться там.
