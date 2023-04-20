@@ -53,3 +53,6 @@
 https://colab.research.google.com/drive/1vFoUw0fHJPuV3ytUZ9KjccdwOwzXFx1Y?usp=sharing
 
 Все последние эксперементы проводяться там.
+
+## Link for colab with making predictions
+
